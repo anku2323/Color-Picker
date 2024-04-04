@@ -1,4 +1,4 @@
-# Color Box Selector
+# Color Picker
 
 ![Color Box Selector Demo](![Screenshot from 2024-04-04 18-33-14](https://github.com/anku2323/Color-Picker/assets/150881471/4984396a-2968-4489-b573-dc632b777cd4)
 )
